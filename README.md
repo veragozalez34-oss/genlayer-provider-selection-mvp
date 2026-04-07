@@ -16,7 +16,7 @@ This MVP demonstrates an AI-assisted smart contract for selecting the best provi
 Program:
 - District: Tverskoy
 - Activity: Pilates
-- Capacity: 20 participants
+- Capacity: 25 participants
 - Audience: adults 55+
 - Requirements: safe, low-impact, mobility and balance focused
 
