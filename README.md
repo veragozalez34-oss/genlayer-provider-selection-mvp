@@ -5,6 +5,9 @@ GenLayer MVP: AI-assisted provider selection for senior wellness programs
 
 This MVP demonstrates an AI-assisted smart contract for selecting the best provider for a senior wellness program.
 
+The idea is inspired by a real-world city-level social program workflow, where organizers need to choose among multiple service providers not only by formal requirements, but also by qualitative fit, safety, specialization, and participant relevance.
+
+
 ## What it does
 - stores program requirements from an organizer
 - accepts multiple provider submissions
