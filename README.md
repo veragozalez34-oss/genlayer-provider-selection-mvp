@@ -73,7 +73,7 @@ The contract:
 ### Program requirements
 - District: Tverskoy
 - Activity: Pilates
-- Capacity: 20 participants
+- Capacity: 25 participants
 - Audience: adults 55+
 - Requirements:
   - safe for seniors
